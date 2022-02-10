@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Exercises_OOP_03_02_2022.Exercises
 {
     
@@ -21,7 +22,7 @@ namespace Exercises_OOP_03_02_2022.Exercises
         {
 
         }
-        public static void hourlyPayRate()
+        public void hourlyPayRate()
         {
 
             double payRate;
@@ -32,6 +33,7 @@ namespace Exercises_OOP_03_02_2022.Exercises
             } while (payRate < 5.65 || payRate > 49.99);
 
             Console.WriteLine("Payrate is: {0}", payRate);
+            Console.ReadLine();
         }
     }
 

@@ -19,7 +19,7 @@ namespace Exercises_OOP_03_02_2022.Exercises
         {
 
         }
-        public static void sumInt()
+        public void sumInt()
         {
             int i = 1;
             int sum = 0;

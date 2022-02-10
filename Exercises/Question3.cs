@@ -12,7 +12,7 @@ namespace Exercises_OOP_03_02_2022.Exercises
         {
 
         }
-        public static void radomNumbers()
+        public void randomNumbers()
         {
             Random randomGenerator = new Random();
             int randomNumber = randomGenerator.Next(1, 11);
