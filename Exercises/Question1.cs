@@ -7,15 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exercises_OOP_03_02_2022.Exercises
 {
-    
-    /*
-     * 
-     *  Write a console-based application that prompts a user for an
-        hourly pay rate. While the user enters values less than $5.65
-        or greater than $49.99, continue to prompt the user. Before
-        the program ends, display the valid pay rate
-     * 
-     * */
+ 
     public class Question1
     {
         public Question1()

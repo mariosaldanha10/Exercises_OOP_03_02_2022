@@ -7,12 +7,7 @@ using System.Threading.Tasks;
 namespace Exercises_OOP_03_02_2022.Exercises
 {
     
-    /*
-     * 
-     * Write a console-based application that sums the integers
-       from 1 to 50
-     * 
-     * */
+
     public class Question2
     {
         public Question2()
